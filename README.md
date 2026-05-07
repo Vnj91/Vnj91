@@ -91,6 +91,10 @@ RAG-based AI assistant built using OpenAI + Pinecone + n8n.
 
 `OpenAI` `Pinecone` `n8n` `JavaScript`
 
+🔗 Repository:
+
+[Smart-Portfolio](https://github.com/Vnj91/Smart-Portfolio.git)
+
 ---
 
 ## 📱 AuraTrackr – Android App
@@ -110,6 +114,10 @@ Scalable fitness & productivity application using modern Android architecture.
 
 `Kotlin` `Jetpack Compose` `Firebase` `RoomDB`
 
+🔗 Repository:
+
+[Aura-Trackr](https://github.com/Vnj91/AuraTrackr.git)
+
 ---
 
 # 📚 Core CS Knowledge
@@ -121,26 +129,6 @@ Scalable fitness & productivity application using modern Android architecture.
 * Computer Networks
 * System Design Basics
 * Distributed Systems
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vnj91&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnj91&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-* 🦈 Pull Shark
-* ⚡ Quickdraw
-* 🧠 YOLO
 
 ---
 
@@ -166,7 +154,7 @@ Scalable fitness & productivity application using modern Android architecture.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/vanshaj-srivastava-589395257/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
