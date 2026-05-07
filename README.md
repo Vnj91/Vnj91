@@ -132,18 +132,6 @@ Scalable fitness & productivity application using modern Android architecture.
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vnj91&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnj91&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
 # 📜 Certifications
 
 ### Networking & Software Engineering
