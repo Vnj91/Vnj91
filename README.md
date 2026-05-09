@@ -24,7 +24,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,kotlin,c,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,kotlin,c" />
 </p>
 
 ### Backend & Databases
